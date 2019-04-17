@@ -47,7 +47,7 @@ Following final results have been obtained:
 Customers might primarly be elderly people. The group in which customers are more overrepresented also usually live in a conservative or upper class neighborhood, whereas the underrepresented cluster is primarly domiciled in middle or lower middle class neighborhoods (feature REGIOTYP)
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
-All data was obtained from Bertelsmann Arvato Analytics as well as Udacity, thus, I must give credit to them. Other referebces are cited in the Jupyter notebook.
+All data was obtained from Bertelsmann Arvato Analytics as well as Udacity, thus, I must give credit to them. Other references are cited in the Jupyter notebook.
 
 
 
